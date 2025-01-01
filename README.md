@@ -10,4 +10,4 @@
 ## Technologies Used
 * HTML: Structure and content of the web page.
 * CSS: Styling and layout of the application, including responsive design techniques.
-* JavaScript: User interaction and dynamic content (optional, depending on project complexity).
+* JavaScript: User interaction and dynamic content.
