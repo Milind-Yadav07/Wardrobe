@@ -6,7 +6,7 @@ A React web application featuring smooth scrolling, animations, and stylish UI c
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Milind-Yadav07/Wardrobe.git
    ```
 2. Navigate to the project directory:
    ```bash
